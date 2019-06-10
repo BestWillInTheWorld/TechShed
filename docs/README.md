@@ -1,3 +1,5 @@
+![](./techshed-black.png)
+
 ## Coming soon...
 
 ... The Tech Shed - a digital makery for Frome.  Watch this space!
