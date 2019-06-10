@@ -9,3 +9,6 @@ here
 </a>.
 -->
 
+## Want to know more?
+
+Signup at [our landing page](https://mailchi.mp/6b2c4a5724be/techshed)
