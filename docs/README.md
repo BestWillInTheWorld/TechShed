@@ -1,4 +1,4 @@
-![](./techshed-black.png)
+![](./techshed-binary-black.png)
 
 ## Coming soon...
 
